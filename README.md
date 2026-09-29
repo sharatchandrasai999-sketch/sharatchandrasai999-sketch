@@ -1,6 +1,6 @@
 # Sharat Chandra Sai Boddu
 
-Master’s graduate in Artificial Intelligence, building practical tools for working with LLMs and evaluating their output.
+AI engineer with a Master’s in Artificial Intelligence, building practical tools for working with LLMs and evaluating their output.
 
 I care about the details around a model call: how much it costs, whether it stays within budget, and how reliably its output matches the structure you need.
 
@@ -24,7 +24,7 @@ A schema-driven framework for structured extraction and evaluation.
 
 ## About me
 
-I’m at the start of my career after completing a master’s in AI. I use this GitHub to build focused tools, make evaluation visible, and show the engineering decisions behind the result.
+I build focused developer tools for the LLM stack. tokenlens came out of wanting to understand a request’s cost before sending it; extracteval out of needing structured output I can actually measure and compare across models.
 
 If you’re reviewing my work, start with **tokenlens** for LLM developer tooling and **extracteval** for structured-output evaluation.
 
