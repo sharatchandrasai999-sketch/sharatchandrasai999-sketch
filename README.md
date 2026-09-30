@@ -22,6 +22,10 @@ A schema-driven framework for structured extraction and evaluation.
 - Compares results across models
 - Presents the comparison in a multi-model leaderboard
 
+## Open source
+
+- [simonw/llm](https://github.com/simonw/llm) — [PR #1726](https://github.com/simonw/llm/pull/1726): fixed silent data loss in embedding batch writes (a model returning the wrong embedding count had entries silently dropped; now validated per batch with a clear error). Added regression tests.
+
 ## About me
 
 I build focused developer tools for the LLM stack. tokenlens came out of wanting to understand a request's cost before sending it; extracteval out of needing structured output I can actually measure and compare across models.
