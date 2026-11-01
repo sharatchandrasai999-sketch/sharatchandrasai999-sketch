@@ -1,7 +1,7 @@
 ![Sharat Chandra Sai Boddu — AI Engineer](hero.svg)
 
 <!-- stats:start -->
-**65** tests passing · **16+** models priced · tokenlens **v0.2.0** · **1** upstream OSS contribution
+**89** tests passing · **16+** models priced · tokenlens **v0.2.0** · **1** upstream OSS contribution
 <!-- stats:end -->
 
 ## Built
@@ -14,6 +14,14 @@ Know what an LLM request costs before you send it. Exact token counting, cross-m
 
 Measure whether structured output is actually right. Configure an extraction task in one YAML file, score it with type-aware metrics, and compare models on a leaderboard.
 
+### [video-summarizer](https://github.com/sharatchandrasai999-sketch/video-summarizer)
+
+Upload a video, get a written summary and key points. Whisper turns speech into text, then an LLM writes the summary — with a free path that runs on CPU and a free Groq key, no GPU needed.
+
+### [career-compass](https://github.com/sharatchandrasai999-sketch/career-compass)
+
+A live job radar for AI, data, and software roles. It pulls real postings from company career boards and screens them for visa and sponsorship wording. No signup, no server — [try it live](https://sharatchandrasai999-sketch.github.io/career-compass/).
+
 ## Upstream
 
 <!-- oss:start -->
@@ -24,7 +32,7 @@ Per-batch embedding-count validation: a model returning the wrong number of embe
 
 ## Now
 
-Building eval tooling, keeping both repos green, and looking for ML/AI engineer roles.
+Python AI Engineer (part-time) at Thea Solutions, remote, since October 2026 — building full-stack and GenAI / agentic AI apps. Still building eval tooling, and looking for ML/AI engineer roles.
 
 ## Elsewhere
 
