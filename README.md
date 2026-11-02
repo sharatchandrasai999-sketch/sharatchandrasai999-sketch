@@ -1,7 +1,7 @@
 ![Sharat Chandra Sai Boddu — AI Engineer](hero.svg)
 
 <!-- stats:start -->
-**89** tests passing · **16+** models priced · tokenlens **v0.2.0** · **1** upstream OSS contribution
+**65** tests passing · **16+** models priced · tokenlens **v0.2.0** · **1** upstream OSS contribution
 <!-- stats:end -->
 
 ## Built
