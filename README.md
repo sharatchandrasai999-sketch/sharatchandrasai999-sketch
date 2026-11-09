@@ -1,7 +1,7 @@
 ![Sharat Chandra Sai Boddu — AI Engineer](hero.svg)
 
 <!-- stats:start -->
-**89** tests passing · **16+** models priced · tokenlens **v0.2.0** · **1** upstream OSS contribution
+**65** tests passing · **16+** models priced · tokenlens **v0.2.0** · **1** upstream OSS contribution
 <!-- stats:end -->
 
 ## Built
@@ -25,7 +25,7 @@ A live job radar for AI, data, and software roles. It pulls real postings from c
 ## Upstream
 
 <!-- oss:start -->
-[**simonw/llm#1726**](https://github.com/simonw/llm/pull/1726) — merged into main, Nov 2026
+[**simonw/llm#1726**](https://github.com/simonw/llm/pull/1726) — merged
 
 Per-batch embedding-count validation: a model returning the wrong number of embeddings used to have entries silently dropped — now it fails loudly, with three regression tests.
 <!-- oss:end -->
